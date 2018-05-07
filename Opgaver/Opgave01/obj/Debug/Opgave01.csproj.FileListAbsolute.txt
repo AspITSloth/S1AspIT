@@ -1,0 +1,6 @@
+C:\Users\fred4262\Documents\S1\Visual Studio\Opgaver\Opgave01\bin\Debug\Opgave01.exe.config
+C:\Users\fred4262\Documents\S1\Visual Studio\Opgaver\Opgave01\bin\Debug\Opgave01.exe
+C:\Users\fred4262\Documents\S1\Visual Studio\Opgaver\Opgave01\bin\Debug\Opgave01.pdb
+C:\Users\fred4262\Documents\S1\Visual Studio\Opgaver\Opgave01\obj\Debug\Opgave01.csprojResolveAssemblyReference.cache
+C:\Users\fred4262\Documents\S1\Visual Studio\Opgaver\Opgave01\obj\Debug\Opgave01.exe
+C:\Users\fred4262\Documents\S1\Visual Studio\Opgaver\Opgave01\obj\Debug\Opgave01.pdb

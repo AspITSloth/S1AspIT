@@ -1,0 +1,5 @@
+C:\Users\fred4262\Documents\S1\Visual Studio\Opgaver\Opgave02\bin\Debug\Opgave02.exe.config
+C:\Users\fred4262\Documents\S1\Visual Studio\Opgaver\Opgave02\bin\Debug\Opgave02.exe
+C:\Users\fred4262\Documents\S1\Visual Studio\Opgaver\Opgave02\bin\Debug\Opgave02.pdb
+C:\Users\fred4262\Documents\S1\Visual Studio\Opgaver\Opgave02\obj\Debug\Opgave02.exe
+C:\Users\fred4262\Documents\S1\Visual Studio\Opgaver\Opgave02\obj\Debug\Opgave02.pdb
